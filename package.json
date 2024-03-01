@@ -1,0 +1,14 @@
+{
+  "name": "kdimia",
+  "version": "1.0.0",
+  "description": "Um app para registro e acomanhamento dos treinos",
+  "main": "index.js",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
